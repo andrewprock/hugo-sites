@@ -1,4 +1,5 @@
 .DS_Store
+*.swp
 */resources/_gen/
 */public
 .hugo_build.lock
